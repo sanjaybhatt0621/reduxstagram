@@ -1,4 +1,4 @@
-Redux
+Redux <br/>
 A simple React + Redux implementation.
 
 Running
